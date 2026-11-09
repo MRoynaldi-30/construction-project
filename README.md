@@ -50,7 +50,7 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone URL_REPOSITORY
+git clone https://github.com/MRoynaldi-30/construction-project.git
 ```
 
 Masuk ke direktori project:
